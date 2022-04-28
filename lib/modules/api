@@ -1,0 +1,13 @@
+// base url : https://newsapl.org
+// method (url): v2/top-head lines ?
+// queries: country=eg&catego ry=business&ap iKey=65 f7f556ec76449 fa7dc7 c0069 f040ca
+
+https://newsapi.org/v2/top-headlines?country=eg&category=business&apiKey=22a04cfa970940d2b498756e109bf238
+
+
+https://newsapi.org/v2/everything?q=tesla&from=2022-01-08&sortBy=publishedAt&apiKey=22a04cfa970940d2b498756e109bf238
+
+
+
+flutter run -d chrome --web-renderer html
+flutter create --platforms=windows,macos,linux
