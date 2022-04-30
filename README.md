@@ -4,6 +4,8 @@
 This repo has news app code from Abdallah Mansour with themes and bloC State Management
 ready to run on mobile,windows,web
 
+the api : https://www.getpostman.com/collections/3223d639447a8524e38f
+
 you can watch the course from here
 https://www.udemy.com/course/complete-flutter-arabic
 
